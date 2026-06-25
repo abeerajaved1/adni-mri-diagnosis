@@ -1,0 +1,36 @@
+
+ADNI Pipeline Session Summary
+============================
+Date: 2026-06-17 10:48:56.363707
+Subjects processed: 30
+Volumetric subjects: 50
+Deep feature model: Trained
+Volumetric model: Trained
+
+Files in E:\ADNI_Local\outputs\processed_data:
+  X_brain_volumes.npy                          11.6 KB
+  X_clinical.npy                               52.2 KB
+  X_deep_features.npy                        3136.1 KB
+  X_dense_features.npy                       6928.1 KB
+  X_enhanced.npy                            63519.4 KB
+  brain_volumetric_features.csv                 6.6 KB
+  clinical_metadata.csv                        19.2 KB
+  converters.csv                                0.0 KB
+  data_quality_check.png                     1157.3 KB
+  deep_feature_subjects.csv                     2.3 KB
+  deep_model_predictions.csv                    1.6 KB
+  failed_subjects.csv                           0.0 KB
+  model_brain_volumes.joblib                  949.7 KB
+  model_xgboost.joblib                       1642.7 KB
+  mri_classifier_deep_features.joblib        2142.3 KB
+  mri_classifier_volumetric.joblib            703.7 KB
+  scaler.joblib                               972.8 KB
+  scaler_clinical.joblib                        1.3 KB
+  scaler_volumes.joblib                         0.7 KB
+  session_state.pkl                          9810.2 KB
+  subjects_enhanced.csv                         2.3 KB
+  y_brain_volumes.npy                           1.7 KB
+  y_clinical.npy                                1.7 KB
+  y_deep_labels.npy                             1.7 KB
+  y_enhanced.npy                                1.7 KB
+  y_labels.npy                                  3.5 KB
